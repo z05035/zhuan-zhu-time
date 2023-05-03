@@ -1,4 +1,4 @@
-import time
+import time   //输入时间
 
 work_time = 25
 rest_time = 5
